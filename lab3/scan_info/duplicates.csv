@@ -1,0 +1,5 @@
+group_id,size_bytes,saved_if_dedup_bytes,file_path
+1,3620010,3620010,C:\Users\Admin\Coding\University\Ruby/lab3/test_data/copy/images-copy/Screenshot_130.png
+1,3620010,3620010,C:\Users\Admin\Coding\University\Ruby/lab3/test_data/images/Screenshot_130.png
+2,32,32,C:\Users\Admin\Coding\University\Ruby/lab3/test_data/copy/file_a.txt
+2,32,32,C:\Users\Admin\Coding\University\Ruby/lab3/test_data/file_a.txt

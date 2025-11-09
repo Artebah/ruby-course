@@ -1,0 +1,21 @@
+{
+  "scanned_files": 6,
+  "groups": [
+    {
+      "size_bytes": 3620010,
+      "saved_if_dedup_bytes": 3620010,
+      "files": [
+        "C:\\Users\\Admin\\Coding\\University\\Ruby/lab3/test_data/copy/images-copy/Screenshot_130.png",
+        "C:\\Users\\Admin\\Coding\\University\\Ruby/lab3/test_data/images/Screenshot_130.png"
+      ]
+    },
+    {
+      "size_bytes": 32,
+      "saved_if_dedup_bytes": 32,
+      "files": [
+        "C:\\Users\\Admin\\Coding\\University\\Ruby/lab3/test_data/copy/file_a.txt",
+        "C:\\Users\\Admin\\Coding\\University\\Ruby/lab3/test_data/file_a.txt"
+      ]
+    }
+  ]
+}
